@@ -48,7 +48,7 @@
 					<h3> What do Red Blood Cells look like? </h3>
 					
 						<figure>
-							<img src="images/rbc.jpeg" width="260" height="200" title="Biconcave shape of red blood cell." alt="Image of Red Blood Cell"> 
+							<img src="rbc.jpeg" width="260" height="200" title="Biconcave shape of red blood cell." alt="Image of Red Blood Cell"> 
 							<br> 
 							<figcaption> <strong> Red blood cells are microscopic and have the shape of a flat disk or doughnut, which is round with an indentation in the center, but it isn’t hollow. </strong> </figcaption>	
 						</figure>
@@ -139,7 +139,7 @@
 					<h4> What do White Blood Cells look like? </h4>
 					
 						<figure>
-							<img src="images/wbc.jpeg" width="300" height="170" title="Round shaped White blood cell in the blood stream." alt="Image of White Blood Cell"> 
+							<img src="wbc.jpeg" width="300" height="170" title="Round shaped White blood cell in the blood stream." alt="Image of White Blood Cell"> 
 							<br> 
 							<figcaption> <strong> White blood cells are colorless but can appear as a very light purple to pink color when examined under a microscope and colored with dye. </strong> </figcaption>	
 						</figure>
